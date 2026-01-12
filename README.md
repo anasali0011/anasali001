@@ -122,6 +122,5 @@ I am open to:
 - 🚀 Entry-level opportunities  
 
 📫 Email: **2k22.it.2212063@gmail.com**  
-🔗 LinkedIn: **linkedin.com/in/anasali011**
 
 ⭐ *If you find my work interesting, feel free to explore my repositories and leave a star!*
