@@ -28,7 +28,6 @@ const anasAli = {
         certifications: 5
     },
     openTo: ["Internships", "Collaborations", "Entry-level Opportunities"],
-    funFact: "I turn coffee into code ☕→💻"
 };
 ```
 
